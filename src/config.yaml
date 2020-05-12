@@ -1,0 +1,12 @@
+
+mysql:
+    username: 'root'
+    password: 'root'
+    endpoint: localhost
+    port: 3306
+    database: steam
+    
+
+
+steam:
+    api_key: E8EFBABCDD7223F0E0C80088C1437E22
